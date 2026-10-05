@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy **Brayan David Hernández Ruiz**
 
-Ingeniero de Software especializado en **Arquitectura de Soluciones**, **Optimización de Procesos** y **Toma de Decisiones basada en Ciencia de Datos**. Apasionado por la integración de IA en el desarrollo de software y la creación de soluciones escalables y robustas.
+Estudiante de ingeniera de sistemas.
+Apasionado por la integración de IA en el desarrollo de software y la creación de soluciones escalables y robustas.
 
 ---
 
