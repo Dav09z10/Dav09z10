@@ -136,7 +136,7 @@ Creo en:
 ---
 
 ### :zap: Recent Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 **¡Gracias por visitar mi perfil! Si tienes un proyecto interesante o quieres colaborar, no dudes en contactarme.** 🙌
