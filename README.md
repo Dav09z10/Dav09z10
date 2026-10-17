@@ -137,6 +137,8 @@ Creo en:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Dav09z10/Dav09z10/pull/1) in [Dav09z10/Dav09z10](https://github.com/Dav09z10/Dav09z10)
+2. 💪 Opened PR [#1](https://github.com/Dav09z10/Dav09z10/pull/1) in [Dav09z10/Dav09z10](https://github.com/Dav09z10/Dav09z10)
 <!--END_SECTION:activity-->
 
 **¡Gracias por visitar mi perfil! Si tienes un proyecto interesante o quieres colaborar, no dudes en contactarme.** 🙌
